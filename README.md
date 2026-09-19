@@ -5,9 +5,6 @@
 ##  About me
 
 - Final-year Computer Engineering student at ESPRIT (ARCTIC program), Tunisia
-- ML intern at ETAP: built a dynamic pricing system (XGBoost, KNN, K-Means) shown in a Flask web app
-- Computer vision: driver drowsiness detection with a fine-tuned Vision Transformer in PyTorch
-- Cloud security intern at Smartovate: built a SIEM with Azure Monitor and Microsoft Sentinel
 - Open to internship opportunities in AI & Data Science
 - Arabic (native) · French · English
 - lindajenhani58@gmail.com
