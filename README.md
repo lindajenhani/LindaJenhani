@@ -5,7 +5,7 @@
 ##  About me
 
 - Final-year Computer Engineering student at ESPRIT (ARCTIC program), Tunisia
-- Open to internship opportunities in AI & Data Science
+- Open to internship opportunities in AI, Cloud & Data Science
 - Arabic (native) · French · English
 - lindajenhani58@gmail.com
 
